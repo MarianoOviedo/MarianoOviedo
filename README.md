@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Mariano Oviedo</h1>
 <h3 align="center">Argentino, viviendo en Salvador. Trabajando en Startup de Turismo.</h3>
 
-- 🔭 Trabajo en Pinguim app como [Product Manager on Pinguim app](https://pinguim.app.br/)
+- 🔭 Trabajo como [Product Manager on Pinguim app](https://pinguim.app.br/)
 
 - 📫 Mi correo **mariano_oviedo@hotmail.com**
 
